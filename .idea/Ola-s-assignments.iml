@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01-java-fundamentals/01-Java First Program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-java-fundamentals/02-alfred-bot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-java-fundamentals/03-fizzbuzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-java-fundamentals/04-string-manipulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-java-fundamentals/05-basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-java-fundamentals/06-puzzling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-java-fundamentals/07-map-of-the-hashmatique" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01-java-fundamentals/08-lists-of-exceptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/01-project-class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/02-singly-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/03-zoo-keeper-pt1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/04-zoo-keeper-pt2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/05-object-master-pt1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/06-object-master-p2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/07-bank-account" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/08-pokemon-optional" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/09-phone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/10-calculator-i" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/11-calculator-ii-optional" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/12-double-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-java-oop/13-tries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-java-spring/01-spring-fundamentals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-java-spring/02-spring-data-i" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-java-spring/03-spring-data-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-java-spring/04-advanced-queries" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-java-spring/05-login-and-registration" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-java-spring/06-spring-security" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
